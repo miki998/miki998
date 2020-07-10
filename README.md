@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on anything that is linked to computer vision or optimization
 - 🤔 I’m looking for help with deploying some of my previous works!
 - 💬 Ask me about ANYTHING
-- 📫 How to reach me: my email is linked right there on the "left side of your page"
+- 📫 How to reach me: my email can be found on my website link right there on the "left side of your page"
 - 😄 Pronouns: ok
 - ⚡ Fun fact: OK
 
