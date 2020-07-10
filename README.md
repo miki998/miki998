@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <!--
-**miki998/miki998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**miki998/miki998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on semi-supervised annotation tool using variational methods
 - 🌱 I’m currently learning about pyramidal model for computer vision
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: my email is linked right there on the "left side of your page"
 - 😄 Pronouns: ok
 - ⚡ Fun fact: OK
--->
+
