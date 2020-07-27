@@ -13,4 +13,4 @@
 - 😄 Pronouns: ok
 - ⚡ Fun fact: OK
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miki998&hide=contribs,issues)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miki998&hide=contribs,issues&show_icons=true&theme=radical)
