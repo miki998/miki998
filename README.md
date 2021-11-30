@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on rPPG signal extraction from RGB and NIR videos. 
-- 🌱 I’m currently reading Verification of binarized neural network and its security applications
+- 🌱 I’m currently reading Verification of binarized ff neural network and its security applications
 - 👯 I would be more than happy to collaborate in intereseting projects
 - 🤔 I’m looking for help with deploying some of my previous works!
 - 💬 Ask me about anything
