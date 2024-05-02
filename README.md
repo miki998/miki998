@@ -4,7 +4,7 @@
 **miki998/miki998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 
 
-- 🔭 I’m currently working on connectivity gradients and emotions
+- 🔭 I’m currently working on graph signal processing
 - 🌱 I’m currently reading about imaios' eMRI course (SUPER INTERESTING highly recommended)
 - 👯 I would be more than happy to collaborate in interesting projects
 - 🤔 I’m looking for open source computational imaging / healthcare oriented organization to work with.
